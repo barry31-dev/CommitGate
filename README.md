@@ -1,7 +1,8 @@
 # CommitGate
 
-> **Status: not published.** This repository is being prepared for a first
-> public release. Read-only, standard library only, no network access.
+> **v0.1 is published.** The feature set is frozen: `v0.1` is what this
+> repository is, and new requests go to the `v0.2` backlog rather than into it.
+> Read-only, standard library only, no network access.
 
 ## The problem it exists for
 

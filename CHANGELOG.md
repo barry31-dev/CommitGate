@@ -1,9 +1,13 @@
 # Changelog
 
-All notable changes to this package are recorded here. Nothing has been
-released yet; this file starts at the first prepared version.
+All notable changes to this package are recorded here, starting at the
+first published version.
 
-## Unreleased
+## [0.1.0] - 2026-10-17
+
+First published release: `github.com/barry31-dev/CommitGate` at tag `v0.1`.
+Everything below was written while the release was still being prepared; it is
+the content of `v0.1`, not a description of work that has not happened.
 
 ### Added
 

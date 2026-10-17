@@ -1,10 +1,11 @@
 # CommitGate release notes
 
-No release exists yet. This file will carry the notes for the first published
-version; until then, the status above is the claim, and the status in
-`README.md` and `CHANGELOG.md` is the same one.
+**v0.1 is published** (2026-10-17, `github.com/barry31-dev/CommitGate`, tag
+`v0.1`). The feature set is frozen at what this repository ships: new requests
+go to the `v0.2` backlog, and `v0.1` accepts only documentation corrections,
+security or privacy fixes, and the identity gate itself.
 
-## What the first release is meant to prove
+## What the first release was meant to prove
 
 Not that it is useful to anyone else, which is untested. What it is meant to
 prove is narrower and checkable: that the identity a repository claims was
